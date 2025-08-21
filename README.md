@@ -1,7 +1,5 @@
 # 🎮 Word Guessing Game  
 
-![Banner](https://img.icons8.com/color/452/game-controller.png)  
-
 ## 📖 Description  
 
 The **Word Guessing Game** is an interactive terminal-based Python project that challenges players to guess secret words.  
